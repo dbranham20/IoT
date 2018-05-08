@@ -2,7 +2,7 @@
     Technology Incubator IoT 
     Winthrop University - Spring 2018
     
-    Recycle Bin Project (2/3)
+    Recycle Bin Project (2/2)
     this program adds a series of lights to a LED light strip to showcase when someone throws something away in the recycling bin. it awaits for an event sent from the photons attached to the recycling bins
 */
 // This #include statement was automatically added by the Particle IDE.
